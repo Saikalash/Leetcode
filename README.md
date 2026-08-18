@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saikalash/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saikalash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saikalash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
