@@ -14,23 +14,30 @@
  * }
  */
 class Solution {
-    int a[] =new int[10000];
-    int i=0;
+    //int a[] =new int[10000];
+    int count=0;
+    int ans=0;
     public int kthSmallest(TreeNode root, int k) {
         //int i=0;
-        solve(root);
+        solve(root,k);
         //Arrays.sort(a);
-        return a[k-1];
+        return ans;
     }
-    public void solve(TreeNode root)
+    public void solve(TreeNode root,int k)
     {
         if(root==null)
         {
             return;
         }
-        solve(root.left);
-        a[i++] = root.val; 
-        solve(root.right);
+        solve(root.left,k);
+        count++;
+        if(count==k)
+        {
+            ans = root.val;
+            return;
+        }
+       // a[i++] = root.val; 
+        solve(root.right,k);
        
     }
 }
