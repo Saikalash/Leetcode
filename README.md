@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saikalash/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saikalash/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
