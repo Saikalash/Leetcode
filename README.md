@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Saikalash/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saikalash/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saikalash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saikalash/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saikalash/Leetcode/tree/master/0207-course-schedule) |
+| [0994-rotting-oranges](https://github.com/Saikalash/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Saikalash/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
