@@ -20,15 +20,14 @@ class Solution {
     {
         int n = a.length;
         int m = a[0].length;
-        if(i<0 || i>n-1 || j<0 || j>m-1 || a[i][j]=='0' || a[i][j] == '$')
+        if(i<0 || i>n-1 || j<0 || j>m-1 || a[i][j]=='0')
         {
             return ;
         }
 
-        if(a[i][j]=='1')
-        {
-            a[i][j] = '$';
-        }
+        
+            a[i][j] = '0';
+        
 
         DFS(a,i-1,j);
         DFS(a,i+1,j);
