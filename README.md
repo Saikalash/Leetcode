@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saikalash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Saikalash/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Saikalash/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saikalash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Saikalash/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 ## Union-Find
 |  |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Saikalash/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
