@@ -1,4 +1,5 @@
 class Solution {
+    int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
     public boolean exist(char[][] a, String x) {
         int n =a.length;
         int m = a[0].length;
@@ -24,7 +25,7 @@ class Solution {
         if(idx == x.length()-1)
         {return true;
         }
-        int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
+        
         char temp = a[i][j];
         a[i][j]='$';
         for(int[] dir:directions)
