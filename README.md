@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 ## Union-Find
