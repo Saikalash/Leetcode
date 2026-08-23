@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Saikalash/Leetcode/tree/master/0113-path-sum-ii) |
 ## Union-Find
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saikalash/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
