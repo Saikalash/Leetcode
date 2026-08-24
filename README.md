@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saikalash/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Saikalash/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Saikalash/Leetcode/tree/master/0078-subsets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saikalash/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saikalash/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saikalash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
