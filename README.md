@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saikalash/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saikalash/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Saikalash/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saikalash/Leetcode/tree/master/0046-permutations) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saikalash/Leetcode/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/Saikalash/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saikalash/Leetcode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Saikalash/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
