@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Saikalash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Saikalash/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
