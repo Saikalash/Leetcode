@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Saikalash/Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Saikalash/Leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Saikalash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0875-koko-eating-bananas](https://github.com/Saikalash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Saikalash/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saikalash/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saikalash/Leetcode/tree/master/0015-3sum) |
+| [0435-non-overlapping-intervals](https://github.com/Saikalash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Saikalash/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saikalash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Saikalash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saikalash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Saikalash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saikalash/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
