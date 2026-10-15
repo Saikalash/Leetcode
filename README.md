@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saikalash/Leetcode/tree/master/0079-word-search) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saikalash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Saikalash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Saikalash/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Saikalash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Saikalash/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Database
 |  |
 | ------- |
