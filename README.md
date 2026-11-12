@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saikalash/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saikalash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saikalash/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saikalash/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3169-count-days-without-meetings](https://github.com/Saikalash/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saikalash/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saikalash/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
